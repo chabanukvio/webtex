@@ -1,1 +1,2 @@
 git clone https://github.com/chabanukvio/webtex.git
+git checkout -b develop
