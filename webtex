@@ -1,1 +1,15 @@
 git clone https://github.com/chabanukvio/webtex.git
+git checkout -b feature/main-layout
+echo '<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Document</title>
+</head>
+<body>
+
+</body>
+</html>' > index.html
+git add index.html
+git commit -m "Added index.html with basic HTML structure"
