@@ -1,2 +1,4 @@
 git clone https://github.com/chabanukvio/webtex.git
 git checkout -b develop
+git checkout develop
+git push --set-upstream origin develop
