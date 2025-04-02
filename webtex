@@ -2,3 +2,5 @@ git clone https://github.com/chabanukvio/webtex.git
 cd webtex
 pwd
 git checkout -b main
+git checkout main
+git push --set-upstream origin main
